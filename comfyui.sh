@@ -32,6 +32,7 @@ UNET_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://civitai.com/api/download/models/1586472?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
@@ -41,6 +42,7 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
+    "https://huggingface.co/Laxhar/noob_openpose/resolve/main/openpose_pre.safetensors"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
