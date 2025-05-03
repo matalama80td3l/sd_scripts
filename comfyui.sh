@@ -33,6 +33,8 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     "https://civitai.com/api/download/models/1586472?type=Model&format=SafeTensor"
+    "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82NzFiZWY4YWJiYzRjM2Y4L0VTZmdnNVZaemFWQm9OdThxVFNpRW9JQmkxbjhKMjRqR0k1d3F5MUIwYXRjcnc_ZT1BbkRTVnI.safetensors"
+    "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82NzFiZWY4YWJiYzRjM2Y4L0VXVGNXbHQ3Rzc5RG5hWm04YlV4VHNNQms2NW05b21PR1JOOGh5TnBucVgtN2c_ZT1jZ3k5cVc.safetensors"
 )
 
 VAE_MODELS=(
